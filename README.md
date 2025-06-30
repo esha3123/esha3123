@@ -2,8 +2,9 @@
   <h1>✨ Hey, I'm Esha — Welcome to My Digital Wonderland 👩‍💻</h1>
   <p>“Dream big, code smarter, sparkle always.”</p>
 </div>
----
-<img https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFE1&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer+%7C+MCA+Aspirant+2025;💻+Java+%26+React+Enthusiast;🔥+Code+%2B+Gym+%3D+Everyday+Routine;🇮🇳+From+India >
+<p align="center">
+ <img src="https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200"/>
+</p>
 
 ---
 
