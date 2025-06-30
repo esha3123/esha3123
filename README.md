@@ -3,7 +3,7 @@
   <p>“Dream big, code smarter, sparkle always.”</p>
 </div>
 <p align="center">
- <img src="https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200"/>
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpMTY0cTMxNmkwcTRkdGVqMHFhb3NhMWMwajMwd212a2JnMnJmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 </p>
 
 ---
