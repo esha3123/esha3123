@@ -34,8 +34,7 @@
 
 ## 🌱 Currently Learning
 - 🔍 Deep MERN Stack Adventures  
-- 🔢 Java DSA Mastery for Interviews  
-- 🎓 MCA CET: Maths & Logic Drills  
+- 🔢 Java DSA Mastery for Interviews   
 - 🎨 UI/UX Design Principles
 
 ---
