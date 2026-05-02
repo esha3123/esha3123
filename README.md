@@ -49,8 +49,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esha-username&show_icons=true&theme=dracula" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esha-username&theme=dracula&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esha3123&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esha3123&theme=dracula&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
